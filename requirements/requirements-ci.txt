@@ -312,7 +312,6 @@ idna==2.8
 importlib-metadata==4.12.0
     # via
     #   -r requirements-dev.txt
-    #   flask
     #   pluggy
 incremental==17.5.0
     # via
@@ -771,15 +770,12 @@ types-werkzeug==1.0.1
     # via
     #   -r requirements-dev.txt
     #   types-flask
-typing-extensions==3.10.0.2
+typing-extensions==4.3.0
     # via
     #   -r requirements-dev.txt
     #   aiohttp
-    #   astroid
-    #   black
     #   matrix-synapse
     #   mypy
-    #   pylint
     #   signedjson
 typing-inspect==0.4.0
     # via
